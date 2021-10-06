@@ -60,3 +60,12 @@ Repositório para a Mentoria do Digital Innovation One
     - git push origin branch --delete
 
     - git push -u origin main
+     
+<h2>Dicas úteis</h2>
+
+- Pull sempre que for começar a trabalhar
+- Sem commits na master
+- Geralmente temos uma branch chamada DEV que receberá todas as features em desenvolvimento.
+- Usar uma branch por feature
+- Use nomes descritivos para commitar seus arquivos com a nomenclatura fix / feat
+
