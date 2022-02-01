@@ -14,8 +14,8 @@ Repositório para a Mentoria do Digital Innovation One
 - Adicionar um README.md
 
 <h2>Códigos</h2>
-    -git init
-
+    
+    - Git init
     - Git add <nome do arquivo>, com este comando adiciono arquivos 
     que estão criados no meu workspace para o staging area
 
